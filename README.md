@@ -6,3 +6,4 @@ no mini curso de python promivido pelo NDS - Núcleo de Desenvolvimento de Siste
 
 * As Apostilas / Apresentações 
 * Mini Guia de Terminal Linux 
+
